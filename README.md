@@ -1,4 +1,4 @@
-# toolsig (Instagram Tools)
+# instaX (Instagram Tools)
 * Instagram (also called IG or Insta) is a photo and video sharing application that allows users to take photos, take videos, apply digital filters and share them to various social networking services, including Instagram's own.
 * Instagram Tools Based on NodeJS (This script or code was created by ccocot - Aldi Nugraha).
 
@@ -15,7 +15,7 @@ $ [Other Information](#OTHER-INFORMATION)
 ## Video Tutorial (WINDOWS, C9/CA & TERMUX) [https://youtu.be/J7WbsfZ7z6I]
 
 ## Default or Basic Usage
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/power8341/Savitar.git
 	$ cd instaX
 	$ npm i
 	$ node index.js
@@ -32,7 +32,7 @@ $ [Other Information](#OTHER-INFORMATION)
 	$ pkg upgrade && pkg update
 	$ pkg install git
 	$ pkg install nodejs-lts
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/power8341/Savitar.git
 	$ cd instaX
 	$ npm i
 	$ node index.js
